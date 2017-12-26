@@ -1,7 +1,7 @@
 # Algorithms-BST
 BST implementation 
 
-Language Used - C
+Language Used - C++
 
  1. preOrder 
  2. inOrder 
